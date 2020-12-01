@@ -56,7 +56,8 @@ saveUninitialized=
 
 ---
 
-````const listener = app.listen(3000, () => {
+````
+const listener = app.listen(3000, () => {
   console.log("Your app is listening on port " + 3000);
 });
 ````
