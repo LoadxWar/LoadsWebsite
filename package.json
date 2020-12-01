@@ -1,0 +1,29 @@
+{
+  "name": "LoadxWar",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0",
+    "express-session": "^1.17.1",
+    "@widgetbot/crate": "^3.1.237",
+    "node-fetch": "^2.6.1",
+    "form-data": "^3.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
