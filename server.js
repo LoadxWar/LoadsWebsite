@@ -59,4 +59,4 @@ app.get("*", (request, response) => {
 // listen for requests :)
 app.listen(config.port || 80, () => {
     console.log(`Listening on port ${config.port || 80}`)
-});
+}); 
