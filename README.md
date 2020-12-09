@@ -31,11 +31,11 @@ Logging profile
     "express": "^4.17.1"
 ```
 ---
-# `How to Switch the ports`
+ `How to Switch the ports`
 
-# ` 1st go into config.json`
+` 1st go into config.json`
 
-# `2nd go and find the port  the regular should be 3000 if you are using this on a localhost use port 80`
+ `2nd go and find the port  the regular should be 3000 if you are using this on a localhost use port 80`
 
 
 ---
