@@ -45,3 +45,4 @@ Logging profile
 `For more information contact me on my discord`
 ---
 &nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/742426370541617224.png" alt="LoadxWar" />
+---
