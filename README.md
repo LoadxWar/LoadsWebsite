@@ -22,7 +22,7 @@ Logging profile
 `1.0.0`
 
 ---
-```css
+```scc
 
     "@widgetbot/crate": "^3.1.237",
     "node-fetch": "^2.6.1",
