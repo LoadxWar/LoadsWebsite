@@ -61,3 +61,7 @@ const listener = app.listen(3000, () => {
   console.log("Your app is listening on port " + 3000);
 });
 ````
+---
+# Please Read LICENSE.md 
+
+And please put some credit
