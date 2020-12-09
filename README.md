@@ -28,10 +28,6 @@ Coming soon
 
 ---
 
-&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/742426370541617224.png" alt="LoadxWar" />
-
----
-
     "@widgetbot/crate": "^3.1.237",
     "node-fetch": "^2.6.1",
     "form-data": "^3.0.0",
@@ -64,4 +60,8 @@ const listener = app.listen(3000, () => {
 ---
 # `Please Read LICENSE.md `
 
-`And please put some credit if you do want to use it`
+`And please put some credit if you do want to use it.`
+
+`For more information contact me on my discord`
+---
+&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/742426370541617224.png" alt="LoadxWar" />
