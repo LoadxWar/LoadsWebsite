@@ -64,4 +64,4 @@ const listener = app.listen(3000, () => {
 ---
 # `Please Read LICENSE.md `
 
-`And please put some credit`
+`And please put some credit if you do want to use it`
