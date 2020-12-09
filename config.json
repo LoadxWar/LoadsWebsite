@@ -1,9 +1,9 @@
 {
     "port": "3000", 
     "oauth2": {
-        "redirect_uri": "https://example.com/login/callback", #This should also be your discord bots redirect url!
-        "client_id": "764499395319169074",
-        "secret": "bfSXrAOOwmG1H7lnw4msJnsAMsdz461L",
+        "redirect_uri": "https://example.com/login/callback", 
+        "client_id": "Your Discord Bots Id",
+        "secret": "Your Discord Bots Secret",
         "scopes": ["identify","guilds"]
     },
     "session": {
