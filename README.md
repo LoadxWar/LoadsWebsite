@@ -22,20 +22,22 @@ Logging profile
 `1.0.0`
 
 ---
+```css
 
     "@widgetbot/crate": "^3.1.237",
     "node-fetch": "^2.6.1",
     "form-data": "^3.0.0",
     "express-session": "^1.17.1",
     "express": "^4.17.1"
-
+```
 ---
+# `How to Switch the ports`
 
-````
-const listener = app.listen(3000, () => {
-  console.log("Your app is listening on port " + 3000);
-});
-````
+# ` 1st go into config.json`
+
+# `2nd go and find the port  the regular should be 3000 if you are using this on a localhost use port 80`
+
+
 ---
 # `Please Read LICENSE.md `
 
