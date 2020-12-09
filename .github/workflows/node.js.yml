@@ -1,7 +1,0 @@
-- name: Template env
-  # You may pin to the exact commit or the version.
-  # uses: vafinvr/template-env-action@f7619436c634894eefece09c24d6bbb81830222f
-  uses: vafinvr/template-env-action@v2.0.1
-  with:
-    # File for the replacement
-    filename: server.js
