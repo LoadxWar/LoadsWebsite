@@ -14,17 +14,12 @@
 
 Logging profile
 
----
-
-### Deploy To Heroku
-
-Coming soon
 
 ---
 
 `version`
 
-`1.0.1`
+`1.0.0`
 
 ---
 
@@ -36,22 +31,6 @@ Coming soon
 
 ---
 
-.env
-
-```port=3000
-redirect_uri=
-client_id=
-secret=
-scopes=
-secret=
-cookie=
-maxAge=
-resave=
-saveUninitialized=
-```
-
----
-
 ````
 const listener = app.listen(3000, () => {
   console.log("Your app is listening on port " + 3000);
@@ -60,7 +39,6 @@ const listener = app.listen(3000, () => {
 ---
 # `Please Read LICENSE.md `
 
-`And please put some credit if you do want to use it.`
 
 `For more information contact me on my discord`
 ---
