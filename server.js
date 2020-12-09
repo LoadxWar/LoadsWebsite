@@ -4,6 +4,7 @@ const config = require('./config.json'); // Website config
 const FormData = require('form-data');
 const fetch = require('node-fetch');
 const app = express();
+
 app.use(require('express-session')(config.session))
 
 app.set('view engine', 'pug');
