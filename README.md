@@ -13,8 +13,6 @@
 ### Features to come
 
 Logging profile
-
-
 ---
 
 `version`
@@ -40,6 +38,7 @@ Logging profile
 
 ---
 # `Please Read LICENSE.md `
+
 
 
 `For more information contact me on my discord`
