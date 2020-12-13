@@ -13,17 +13,5 @@
     "@widgetbot/crate": "^3.1.237",
     "node-fetch": "^2.6.1",
     "form-data": "^3.0.0"
-  },
-  "engines": {
-    "node": "12.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
+  }
 }
