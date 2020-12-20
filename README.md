@@ -2,11 +2,10 @@
 
 ---
 
-### Just a website for me loadxwar.xyz
+### `A Cool Simple website`
 
 ---
-
-  <img src="https://cdn.glitch.com/1f2b2e40-0969-49a8-9995-361a8695ef40%2Ff292bd3d-f194-4c64-861e-2fdbd54cb39a.image.png?v=1606353690008" class="img-fluid" alt="Responsive image">
+![Responsive image](https://cdn.glitch.com/1f2b2e40-0969-49a8-9995-361a8695ef40%2Ff292bd3d-f194-4c64-861e-2fdbd54cb39a.image.png?v=1606353690008)
 
 ---
 
@@ -44,6 +43,6 @@ Logging profile
 `For more information contact me on my discord`
 ---
 
-&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/742426370541617224.png" alt="LoadxWar" />
+ ![LoadxWar](https://discord.c99.nl/widget/theme-3/742426370541617224.png)
 
 ---
