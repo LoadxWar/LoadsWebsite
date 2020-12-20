@@ -51,7 +51,9 @@ app.get('/botstarters', async (req, resp) => {
     resp.render('./botstarters.pug')
 })
 
-
+app.get('/aboutme', async (req, resp) => {
+    resp.render('./aboutme.pug')
+})
 
 app.get("*", (request, response) => {
   response.sendFile(__dirname + "/views/404.html");

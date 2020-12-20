@@ -8,17 +8,17 @@ head
   script(src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js' integrity='sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM' crossorigin='anonymous')
   link(rel='stylesheet' href='./style.css')
 nav.navbar.navbar-expand-lg.navbar-dark.bg-dark
-  a.navbar-brand(href='') LoadxWar
+  a.navbar-brand(href='/') LoadxWar
   button.navbar-toggler(type='button' data-toggle='collapse' data-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation')
     span.navbar-toggler-icon
   #navbarSupportedContent.collapse.navbar-collapse
     ul.navbar-nav.mr-auto
       li.nav-item.active
-        a.nav-link(href='')
+        a.nav-link(href='/')
           | Home 
           span.sr-only (current)
       li.nav-item
-        a.nav-link(href='') About Me
+        a.nav-link(href='./aboutme') About Me
       li.nav-item.dropdown
         a#navbarDropdown.nav-link.dropdown-toggle(href='#' role='button' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false')
           | Projects
@@ -34,6 +34,11 @@ style.
   background-attachment: fixed;
   background-size: cover;
   }
+
+h2.identifier
+ .container.text-center
+span.text-white coming soon
+
 footer.footer
   .container.text-center
     span.text-white Made by LoadxWar and Knowble

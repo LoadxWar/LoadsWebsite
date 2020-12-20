@@ -1,6 +1,5 @@
 doctype html
-- var author = "jsera"; // Added login
-title LoadxWar
+title LoadxWar | About Me 
 head
   link(rel='stylesheet' href='https://www.w3schools.com/w3css/4/w3.css')
   link(rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T' crossorigin='anonymous')
@@ -9,13 +8,13 @@ head
   script(src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js' integrity='sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM' crossorigin='anonymous')
   link(rel='stylesheet' href='./style.css')
 nav.navbar.navbar-expand-lg.navbar-dark.bg-dark
-  a.navbar-brand(href='#') LoadxWar
+  a.navbar-brand(href='/') LoadxWar
   button.navbar-toggler(type='button' data-toggle='collapse' data-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation')
     span.navbar-toggler-icon
   #navbarSupportedContent.collapse.navbar-collapse
     ul.navbar-nav.mr-auto
       li.nav-item.active
-        a.nav-link(href='#')
+        a.nav-link(href='/')
           | Home 
           span.sr-only (current)
       li.nav-item
@@ -25,13 +24,9 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-dark
           | Projects
         .dropdown-menu(aria-labelledby='navbarDropdown')
           a.dropdown-item(href='./botstarters') Discord bot starters
-          a.dropdown-item(href='#/comingsoon') Place Holder 2
-      li.nav-item
-        a.nav-link(href='./login') Login  
-      li.nav-item.dropdown   
-    p.identifier 
+          a.dropdown-item(href='./comingsoon') Place Holder 2
+    p.identifier
       | LoadxWar#8332
-link.favicon(rel='shortcut icon' type='icon/png' href='https://cdn.discordapp.com/avatars/742426370541617224/39e4eeeeb15b2dc2c870015044b121b1.webp?size=4096')
 style.
   body {
   background-image: url("https://i.imgur.com/iA8dYpm.gif");
@@ -39,13 +34,16 @@ style.
   background-attachment: fixed;
   background-size: cover;
   }
+
+p.identifier
+  .container.text-center
+span.text-white Hello I am Loadxwar and I learn JavaScript, HTML ,CSS  and Pug. I am an Developer and I you can contact me in many ways. One of them being Discord, a really good chatting platform, my name and hashtag is LoadxWar#9529 (It might change).My Discord Server link is https://discord.gg/MyjuPk2 .You can also contact me on Instagram, Youtube & Twiter, all YOU have to do is search up Loadxwar!
+  
 footer.footer
   .container.text-center
     span.text-white Made by LoadxWar and Knowble
-script(src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3')
-script.
-  const button = new Crate({
-  server: '757589121236729896', // server id
-  channel: '759157569787789322' // Server channel
-  })
-  button.notify('Our Server updates discord.gg/qJUMUjHJGh') // This is not working rn fixing soon
+
+
+
+
+

@@ -1,7 +1,7 @@
 {
     "port": "3000", 
     "oauth2": {
-        "redirect_uri": "https://example.com/login/callback", 
+        "redirect_uri": "https://loadxwar.xyz/login/callback", 
         "client_id": "Your Discord Bots Id",
         "secret": "Your Discord Bots Secret",
         "scopes": ["identify","guilds"]
