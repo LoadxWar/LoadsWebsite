@@ -38,7 +38,7 @@ Logging profile
 ---
 # `Please Read LICENSE.md `
 
-
+---
 
 `For more information contact me on my discord`
 ---
